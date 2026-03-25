@@ -8,7 +8,7 @@
   "server": {
     "ip": "c1server-mix4.aternos.me",
     "port": 33038,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
